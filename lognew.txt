@@ -1,0 +1,30 @@
+C:\Users\Светлана\myproject> git log
+commit 78475c43a286d050402f8d0bf880988bf11177ff (HEAD -> Ryhornew_feature, origin/Ryhornew_feature)
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Sun Jul 10 16:16:55 2022 +0400
+
+    Prenew
+
+commit ab99015b4ad57ce5dd22c9121b5cc4de046f8467
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Sun Jul 10 14:24:27 2022 +0400
+
+    R2
+
+commit 7e04f346231e1200f0f47e8497fa789e0e8dea49
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Sun Jul 10 14:12:43 2022 +0400
+
+    R
+
+commit 3132470c481578add3e3bd9fc1ac7a4d1300f771 (origin/DEV, DEV)
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Sun Jul 10 12:58:38 2022 +0400
+
+    Initial Version1
+
+commit ef3343267cda693af305268c40767742527d2fb7
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Fri Jul 8 16:21:22 2022 +0400
+
+    Added Readme
