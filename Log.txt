@@ -1,1 +1,26 @@
-Режим вывода команд на экран (ECHO) включен.
+C:\Users\╤тхЄырэр\myproject> git log
+commit ea3a3f93546ed1002f1a9aa3cd4cc49ddf678855 (HEAD -> main, origin/DEV1, DEV1)
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Sun Jul 10 15:21:54 2022 +0400
+
+    DEV1 V2
+
+commit 3132470c481578add3e3bd9fc1ac7a4d1300f771 (origin/DEV, DEV)
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Sun Jul 10 12:58:38 2022 +0400
+
+    Initial Version1
+
+commit ef3343267cda693af305268c40767742527d2fb7 (origin/main, origin/HEAD)
+Author: Ryhor Volasau <g.volosov@gmail.com>
+Date:   Fri Jul 8 16:21:22 2022 +0400
+
+    Added Readme
+
+commit 62fec32f6992d5fb35e0ed06a2dd2fe6fe0e7438
+Author: Ryhor <108806944+Volasau@users.noreply.github.com>
+Date:   Wed Jul 6 19:14:41 2022 +0400
+
+    Initial commit
+
+
